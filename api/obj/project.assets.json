@@ -1257,11 +1257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dating\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\rb00273\\Documents\\Dating\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "D:\\dating\\api\\api.csproj",
+      "projectPath": "C:\\Users\\rb00273\\Documents\\Dating\\api\\api.csproj",
       "packagesPath": "C:\\Users\\rb00273\\.nuget\\packages\\",
-      "outputPath": "D:\\dating\\api\\obj\\",
+      "outputPath": "C:\\Users\\rb00273\\Documents\\Dating\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
