@@ -112,3 +112,10 @@ C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\clinet\package.json
 C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\clinet\tsconfig.app.json
 C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\clinet\tsconfig.json
 C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\clinet\tsconfig.spec.json
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
