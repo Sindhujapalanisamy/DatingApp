@@ -119,3 +119,6 @@ C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\System.IdentityModel.Toke
 C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rb00273\documents\Dating\api\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\rb00273\documents\dating\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
